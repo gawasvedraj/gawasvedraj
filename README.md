@@ -9,8 +9,8 @@ Hi 👋! I'm glad you visited my profile.
 
 ## Operating Systems
 [![](https://img.shields.io/badge/Windows-10_LTSC-52d5ff?style=flat-square&logo=windows&logoColor=ffffff)](https://learn.microsoft.com/en-us/windows/iot/iot-enterprise/whats-new/windows-iot-enterprise-ltsc) 
-[![](https://img.shields.io/badge/-EndeavourOS-D70751?style=flat-square&logo=archlinux&logoColor=ffffff)](https://endeavouros.com/) 
-[![Android 13](https://img.shields.io/badge/Android%2013-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-13/) 
+[![](https://img.shields.io/badge/Ubuntu-23.10-D70751?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://ubuntu.com/) 
+[![](https://img.shields.io/badge/Android-14-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-14/) 
 
 ## Skills
 [![](https://img.shields.io/badge/C++-f34b7d?style=flat-square&logo=c%2B%2B&logoColor=ffffff)](https://www.isocpp.org/) 
