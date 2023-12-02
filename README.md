@@ -1,6 +1,6 @@
 # Vedraj Gawas
 
-I don't use Arch BTW!
+I use Arch BTW!
 
 ---
 
@@ -9,7 +9,7 @@ I don't use Arch BTW!
 
 ## Operating Systems
 [![](https://img.shields.io/badge/Windows-10_LTSC-52d5ff?style=flat-square&logo=windows&logoColor=ffffff)](https://learn.microsoft.com/en-us/windows/iot/iot-enterprise/whats-new/windows-iot-enterprise-ltsc) 
-[![](https://img.shields.io/badge/Linux-WSL-D70751?style=flat-square&logo=linux&logoColor=ffffff)](https://aka.ms/wsl) 
+[![](https://img.shields.io/badge/Arch-Linux-D70751?style=flat-square&logo=archlinux&logoColor=ffffff)](https://archlinux.org) 
 [![](https://img.shields.io/badge/Android-14-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-14/) 
 
 ## Skills
